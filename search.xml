@@ -1,102 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%202%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%203%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2010%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2011%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2012%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2013%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2014%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2015%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2016%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
+    <title><![CDATA[I]]></title>
+    <url>%2F2017%2F11%2F28%2FI%2F</url>
+    <content type="text"><![CDATA[I love you]]></content>
+      <categories>
+        <category>I</category>
+      </categories>
       <tags>
-        <tag>Testing</tag>
+        <tag>I</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%204%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
+    <title><![CDATA[Love]]></title>
+    <url>%2F2017%2F11%2F28%2FLove%2F</url>
+    <content type="text"><![CDATA[I love you]]></content>
+      <categories>
+        <category>Love</category>
+      </categories>
       <tags>
-        <tag>Test</tag>
+        <tag>-Love</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%205%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%206%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
+    <title><![CDATA[you]]></title>
+    <url>%2F2017%2F11%2F28%2Fyou%2F</url>
+    <content type="text"><![CDATA[I love you]]></content>
       <categories>
         <category>Testing</category>
       </categories>
+      <tags>
+        <tag>you</tag>
+      </tags>
   </entry>
   <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%207%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
+    <title><![CDATA[念]]></title>
+    <url>%2F2017%2F11%2F28%2F%E5%BF%B5%2F</url>
+    <content type="text"><![CDATA[I love you]]></content>
+      <categories>
+        <category>念</category>
+      </categories>
+      <tags>
+        <tag>念</tag>
+      </tags>
   </entry>
   <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%208%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
+    <title><![CDATA[爱]]></title>
+    <url>%2F2017%2F11%2F28%2F%E7%88%B1%2F</url>
+    <content type="text"><![CDATA[I love you]]></content>
+      <categories>
+        <category>爱</category>
+      </categories>
+      <tags>
+        <tag>爱</tag>
+      </tags>
   </entry>
   <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%209%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_blog]]></title>
-    <url>%2F2017%2F11%2F28%2Ftest-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2F</url>
-    <content type="text"><![CDATA[这是一篇测试博客]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2017%2F11%2F22%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[韦]]></title>
+    <url>%2F2017%2F11%2F28%2F%E9%9F%A6%2F</url>
+    <content type="text"><![CDATA[I love you]]></content>
+      <categories>
+        <category>韦</category>
+      </categories>
+      <tags>
+        <tag>-韦</tag>
+      </tags>
   </entry>
 </search>

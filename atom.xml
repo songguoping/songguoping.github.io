@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Song Blog</title>
+  <title>codersong</title>
   
-  <subtitle>博客 | android开发</subtitle>
+  <subtitle>韦爱念 我爱你</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://codersong.top/"/>
-  <updated>2017-11-28T09:24:50.000Z</updated>
+  <updated>2017-11-30T06:45:18.000Z</updated>
   <id>http://codersong.top/</id>
   
   <author>
@@ -17,275 +17,69 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%202/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 2/</id>
+    <title>I</title>
+    <link href="http://codersong.top/2017/11/28/I/"/>
+    <id>http://codersong.top/2017/11/28/I/</id>
     <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
+    <updated>2017-11-30T06:45:18.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="I-love-you"><a href="#I-love-you" class="headerlink" title="I love you"></a>I love you</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
+        &lt;h2 id=&quot;I-love-you&quot;&gt;&lt;a href=&quot;#I-love-you&quot; class=&quot;headerlink&quot; title=&quot;I love you&quot;&gt;&lt;/a&gt;I love you&lt;/h2&gt;
       
     
     </summary>
     
+      <category term="I" scheme="http://codersong.top/categories/I/"/>
+    
+    
+      <category term="I" scheme="http://codersong.top/tags/I/"/>
     
   </entry>
   
   <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%203/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 3/</id>
+    <title>Love</title>
+    <link href="http://codersong.top/2017/11/28/Love/"/>
+    <id>http://codersong.top/2017/11/28/Love/</id>
     <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
+    <updated>2017-11-30T06:45:12.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="I-love-you"><a href="#I-love-you" class="headerlink" title="I love you"></a>I love you</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
+        &lt;h2 id=&quot;I-love-you&quot;&gt;&lt;a href=&quot;#I-love-you&quot; class=&quot;headerlink&quot; title=&quot;I love you&quot;&gt;&lt;/a&gt;I love you&lt;/h2&gt;
       
     
     </summary>
     
+      <category term="Love" scheme="http://codersong.top/categories/Love/"/>
+    
+    
+      <category term="-Love" scheme="http://codersong.top/tags/Love/"/>
     
   </entry>
   
   <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2010/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 10/</id>
+    <title>you</title>
+    <link href="http://codersong.top/2017/11/28/you/"/>
+    <id>http://codersong.top/2017/11/28/you/</id>
     <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
+    <updated>2017-11-30T06:45:01.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="I-love-you"><a href="#I-love-you" class="headerlink" title="I love you"></a>I love you</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2011/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 11/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2012/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 12/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2013/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 13/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2014/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 14/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2015/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 15/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%2016/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 16/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog/"/>
-    <id>http://codersong.top/2017/11/28/test-blog/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-29T06:42:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-      <category term="Testing" scheme="http://codersong.top/tags/Testing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%204/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 4/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-29T06:43:43.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-      <category term="Test" scheme="http://codersong.top/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%205/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 5/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%206/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 6/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-29T06:45:31.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
+        &lt;h2 id=&quot;I-love-you&quot;&gt;&lt;a href=&quot;#I-love-you&quot; class=&quot;headerlink&quot; title=&quot;I love you&quot;&gt;&lt;/a&gt;I love you&lt;/h2&gt;
       
     
     </summary>
@@ -293,110 +87,82 @@
       <category term="Testing" scheme="http://codersong.top/categories/Testing/"/>
     
     
+      <category term="you" scheme="http://codersong.top/tags/you/"/>
+    
   </entry>
   
   <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%207/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 7/</id>
+    <title>念</title>
+    <link href="http://codersong.top/2017/11/28/%E5%BF%B5/"/>
+    <id>http://codersong.top/2017/11/28/念/</id>
     <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
+    <updated>2017-11-30T06:45:36.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="I-love-you"><a href="#I-love-you" class="headerlink" title="I love you"></a>I love you</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
+        &lt;h2 id=&quot;I-love-you&quot;&gt;&lt;a href=&quot;#I-love-you&quot; class=&quot;headerlink&quot; title=&quot;I love you&quot;&gt;&lt;/a&gt;I love you&lt;/h2&gt;
       
     
     </summary>
     
+      <category term="念" scheme="http://codersong.top/categories/%E5%BF%B5/"/>
+    
+    
+      <category term="念" scheme="http://codersong.top/tags/%E5%BF%B5/"/>
     
   </entry>
   
   <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%208/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 8/</id>
+    <title>爱</title>
+    <link href="http://codersong.top/2017/11/28/%E7%88%B1/"/>
+    <id>http://codersong.top/2017/11/28/爱/</id>
     <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
+    <updated>2017-11-30T06:45:43.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="I-love-you"><a href="#I-love-you" class="headerlink" title="I love you"></a>I love you</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
+        &lt;h2 id=&quot;I-love-you&quot;&gt;&lt;a href=&quot;#I-love-you&quot; class=&quot;headerlink&quot; title=&quot;I love you&quot;&gt;&lt;/a&gt;I love you&lt;/h2&gt;
       
     
     </summary>
     
+      <category term="爱" scheme="http://codersong.top/categories/%E7%88%B1/"/>
+    
+    
+      <category term="爱" scheme="http://codersong.top/tags/%E7%88%B1/"/>
     
   </entry>
   
   <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC%209/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本 9/</id>
+    <title>韦</title>
+    <link href="http://codersong.top/2017/11/28/%E9%9F%A6/"/>
+    <id>http://codersong.top/2017/11/28/韦/</id>
     <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
+    <updated>2017-11-30T06:45:28.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_blog</title>
-    <link href="http://codersong.top/2017/11/28/test-blog%E7%9A%84%E5%89%AF%E6%9C%AC/"/>
-    <id>http://codersong.top/2017/11/28/test-blog的副本/</id>
-    <published>2017-11-28T09:24:14.000Z</published>
-    <updated>2017-11-28T09:24:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="I-love-you"><a href="#I-love-you" class="headerlink" title="I love you"></a>I love you</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;这是一篇测试博客&quot;&gt;&lt;a href=&quot;#这是一篇测试博客&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试博客&quot;&gt;&lt;/a&gt;这是一篇测试博客&lt;/h2&gt;
+        &lt;h2 id=&quot;I-love-you&quot;&gt;&lt;a href=&quot;#I-love-you&quot; class=&quot;headerlink&quot; title=&quot;I love you&quot;&gt;&lt;/a&gt;I love you&lt;/h2&gt;
       
     
     </summary>
     
+      <category term="韦" scheme="http://codersong.top/categories/%E9%9F%A6/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://codersong.top/2017/11/22/hello-world/"/>
-    <id>http://codersong.top/2017/11/22/hello-world/</id>
-    <published>2017-11-22T03:49:33.000Z</published>
-    <updated>2017-11-22T03:49:33.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
+      <category term="-韦" scheme="http://codersong.top/tags/%E9%9F%A6/"/>
     
   </entry>
   
