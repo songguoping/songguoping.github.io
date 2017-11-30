@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>coder  song</title>
+  <title>Song Blog</title>
   
-  <subtitle>韦爱念 我爱你</subtitle>
+  <subtitle>技术|杂文</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://codersong.top/"/>
